@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me contact me on whatsapp@+2348168881037
+- 📫 How to reach me contact me on twitter @oluwa_drizzle
 
 <!---
 drizzle/drizzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
